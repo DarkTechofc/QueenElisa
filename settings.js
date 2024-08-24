@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==AMGdTR4oVL5pmcQtWSH9lTml3dsNzR0Z2Uyh1aKp0SfFGdZ9EM0U3ZqJFRjIVNMx2Vkp1Ypwd=79548946749',
+  SESSION_ID: 'QUEENELISA;;;==wdWdFSmpGOx1EZvhmcW9leRF0RPp1M4UGeSZnQuBnSktWWJZndZxWVzFWOjskcL1ma01UWpwd=82046197749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -24,18 +24,18 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: '乡Ｄ𝙽 ⃐🎋⃑ 𝙊𝘍𝘊 🎎🎭〴',
-  OWNER_NUMBER: '94764984597',
+  OWNER_NAME: 'ｘ 𝛮𝛪𝛭𝛮𝛥𝐷𝛥 ➥ 🍁',
+  OWNER_NUMBER: '94779164028',
   SUDO: '94764984597',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: '乡Ｄ𝙽 ⃐🎋⃑ 𝙊𝘍𝘊 🎎🎭〴',
+  STICKER_PACK: 'ｘ 𝛮𝛪𝛭𝛮𝛥𝐷𝛥 ➥ 🍁',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '🎎',
+  OWNER_R_EMOJI: '💃🏻',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
