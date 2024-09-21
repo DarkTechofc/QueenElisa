@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QRmpVavZ0bal2NWl3SodkQzQXU1EWRwo1YZJEai1CU3lTRKhEd2VzZNRFcjEUUSdVesJUTpwd=68282381749',
-  ALIVE_REACT: '👋',
+  SESSION_ID: 'QUEENELISA;;;==QSa1WbOBXQUNEcWRXLxkHbYFESqhXRRxWLXdlZY1mSTlDUEhDa6ZXc0glNjoFTihEWrZEcpwd=04557234749',
+  ALIVE_REACT: '🖕',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
@@ -25,11 +25,11 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: '𝙳𝙽_🎋',
-  OWNER_NUMBER: '94718328286',
-  SUDO: '94764984597',
+  OWNER_NUMBER: '94764984597',
+  SUDO: '94743275540',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
-  TIME_ZONE: 'Asia/Colombo',
+  TIME_ZONE: 'Asia/Kurunagala',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
   STICKER_PACK: '𝙳𝙽 &',
