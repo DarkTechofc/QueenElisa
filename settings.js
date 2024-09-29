@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wc4AjWCJ0S5R0UZpENhV1MiNmSJRTdu5kdodlQLVGRXZWNZVmdrxmQSh0cjIkQS12aGJVVpwd=55909838749',
+  SESSION_ID: 'QUEENELISA;;;==wdwJlWyYWTOZXUmd0ZatGOzYTVxwUOJZ3UfRDNUpGRGhmYCh2cslUTtYGcjI2UidFb50EOpwd=04557234749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -24,15 +24,15 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ｘ 𝛮𝛪𝛭𝛥𝛥 🍃🥂💗💥',
-  OWNER_NUMBER: '94779164028',
-  SUDO: '94764984597',
+  OWNER_NAME: 'ｘ 𝙳𝙽 𝙾𝙵𝙲',
+  OWNER_NUMBER: '94764984597',
+  SUDO: '94743275540',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ｘ 𝛮𝛪𝛭𝛥𝛥 🍃🥂💗💥',
+  STICKER_PACK: 'ｘ 𝙳𝙽 𝙾𝙵𝙲',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '🎎',
